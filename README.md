@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Erik Donovan-Blood and I am currently a student at California State University Los Angeles working towards my BS in Computer Science. I am interested in Linux, FOSS, web developement and embedded systems.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shramster&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shramster&show_icons=true&theme=tokyonight)
 
 <!--
 **Shramster/Shramster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
