@@ -6,8 +6,9 @@
  ![html5](https://user-images.githubusercontent.com/49361894/194736004-a8430d19-7685-440b-bb59-58412591cb39.svg)
  ![css](https://user-images.githubusercontent.com/49361894/194736008-f444cf88-9615-411a-b5c6-a86798b43180.svg)
  ![postgresql](https://user-images.githubusercontent.com/49361894/194736013-02d95228-339d-46a2-8fd0-75cd8d288194.svg)
-
-<p> I'm a software developer with experience using with Linux, React, Django, and PostGres. I've really dug deep into how Linux operates. I've also taken on multiple web design projects, where I've turned ideas into actual websites. When it comes to tricky projects, I'm your troubleshooter—I've got a knack for untangling complex issues and finding practical solutions.
+<p>
+I am an emerging software developer with practical experience, predominantly centered around Linux and web applications. 
+I have several web design projects, effectively transforming conceptual ideas into online experiences. I like to troubleshoot complex projects and unraveling intricate issues.
 </p>
 
 
