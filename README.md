@@ -8,7 +8,7 @@
  ![postgresql](https://user-images.githubusercontent.com/49361894/194736013-02d95228-339d-46a2-8fd0-75cd8d288194.svg)
 <p>
 I am a software developer with practical experience, predominantly centered around Linux and web applications. 
-I have several web design projects, effectively transforming conceptual ideas into online experiences. I like to troubleshoot complex projects and unraveling intricate issues.
+I have several web design projects, effectively transforming conceptual ideas into online experiences. I like to troubleshoot complex projects and unravel intricate issues.
 </p>
 
 
