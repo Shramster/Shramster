@@ -17,7 +17,6 @@ I have several web design projects, effectively transforming conceptual ideas in
 - 💬 Ask me about my favorite Vim plugins
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shramster&show_icons=true&theme=tokyonight)
 
 
 
